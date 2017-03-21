@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=numRows\ numColumns
+comment0.target=Simulation(int,\ int)
+comment1.params=numRows\ numColumns
+comment1.target=float\ percentageOfGrass(int,\ int)
+comment10.params=numRows\ numColumns
+comment10.target=void\ movements(int,\ int)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=numRows\ numColumns
+comment2.target=void\ remove(int,\ int)
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=numRows\ numColumns
+comment4.target=int[][]\ fillWithAnimals(int,\ int)
+comment5.params=numRows\ numColumns
+comment5.target=boolean[][]\ fillWithGrass(int,\ int)
+comment6.params=
+comment6.target=void\ isItMom()
+comment7.params=numRows\ numColumns
+comment7.target=void\ fillTheList(int,\ int)
+comment8.params=
+comment8.target=void\ isThereFood()
+comment9.params=
+comment9.target=boolean\ areThereAnyCarni()
+numComments=12

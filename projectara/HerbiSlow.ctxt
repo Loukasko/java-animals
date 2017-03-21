@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=HerbiSlow(int,\ int)
+comment1.params=
+comment1.target=void\ setInitialLife()
+comment2.params=
+comment2.target=void\ setInitialRepro()
+comment3.params=
+comment3.target=float\ getSum()
+comment4.params=
+comment4.target=void\ reduceSum()
+numComments=5
